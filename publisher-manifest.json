@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bbc955b239366cef8a182eb1",
+  "owner": "yrfcwhsgng",
+  "repo": "page-b78ae02bf0a461cc3d9ff79d",
+  "title": "EFCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b78ae02bf0a461cc3d9ff79d",
+      "a": "EFCloud",
+      "b": "稳定全球clash加速器",
+      "entity": "EFCloud",
+      "brand": "EFCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1be9f04855c88228d7e75cd9ba3c2ad8169f1ed5c7e116d6362ce0ebc3ec1c1c",
+      "content": {
+        "primary_entity": "EFCloud",
+        "keyword1": "EFCloud",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择 Clash 客户端：Windows、macOS、Android、iOS 与路由器均可找到对应版本。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLOSING_TEXT": "先明确设备数量与所需流量，再对照套餐权益完成订阅。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_DESCRIPTION": "，EFCloud 提供基础版、旗舰版与团队版三档套餐，月付从 ¥15 起，按年付更划算。旗舰版含 300GB 流量与 5 台设备支持，IPLC 专线针对游戏延迟优化；团队版面向 20 台设备与高带宽需求。根据设备数量与流量使用习惯选择，再按 Clash 客户端文档导入订阅即可。",
+          "AI_FEATURES_INTRO": "三档套餐围绕流量、设备数与线路优化区分，选前可先确认使用场景。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月、年付 ¥150，含 100GB 流量与 3 台设备，适合轻度浏览与日常办公。",
+          "AI_FEATURE_TEXT_2": "旗舰版 ¥35/月、年付 ¥350，含 300GB 流量与 5 台设备，IPLC 专线对游戏延迟更友好。",
+          "AI_FEATURE_TEXT_3": "团队版 ¥85/月、年付 ¥850，含 1000GB 流量与 20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "入门流量与设备数",
+          "AI_FEATURE_TITLE_2": "专线与流媒体解锁",
+          "AI_FEATURE_TITLE_3": "大流量与企业路由",
+          "AI_GUIDE_INTRO": "从选套餐到客户端导入订阅，按三步完成连接准备。",
+          "AI_GUIDE_TITLE": "配置与使用步骤",
+          "AI_HERO_INTRO": "EFCloud 提供基础版、旗舰版与团队版三档 Clash 套餐，月付与年付均可选，流量从 100GB 到 1000GB，设备支持从 3 台到 20 台。旗舰版与团队版分别加入 IPLC 专线和更高带宽节点，按设备数量与使用场景选择更直接。",
+          "AI_HERO_SUBTITLE": "EFCloud 套餐按设备与流量分级",
+          "AI_HIGHLIGHT_1": "三档套餐，流量 100GB 到 1000GB",
+          "AI_HIGHLIGHT_2": "年付价格更省，月付最低 ¥15",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏与流媒体",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备轻量使用，旗舰版提供 5 台设备与 IPLC 专线，团队版覆盖 20 台设备与 1000GB 流量。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "先确定常用设备数量与每月流量需求，再对照基础版、旗舰版或团队版的权益范围。",
+          "AI_STEP_TEXT_2": "查看所选套餐对节点线路、设备数量与订阅周期的说明，确认是否符合使用场景。",
+          "AI_STEP_TEXT_3": "在对应 Clash 客户端中按文档导入订阅配置，检查节点列表与连接状态。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置订阅",
+          "AI_VISUAL_TITLE": "EFCloud 套餐清晰可选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "EFCloud 的套餐可以按月付也可以按年付吗？",
+          "AI_FAQ_ANSWER_1": "三档套餐均支持月付和年付。基础版月付 15 元、年付 150 元；旗舰版月付 35 元、年付 350 元；团队版月付 85 元、年付 850 元。",
+          "AI_FAQ_QUESTION_2": "同时能连几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。超出数量时部分设备需要先断开再连接。",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_3": "IPLC 专线针对游戏加速场景优化，可降低延迟波动。旗舰版还支持全节点原生流媒体解锁，适合对线路质量要求较高的用户。",
+          "AI_FAQ_QUESTION_4": "团队版能定制路由吗？",
+          "AI_FAQ_ANSWER_4": "团队版支持企业定制路由，并提供 VIP 专属高带宽节点与专属客户经理服务，适合多设备协同的团队场景。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_5": "先在购买后获取订阅链接，再打开对应客户端找到订阅管理或配置导入入口，粘贴链接并更新节点列表即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shebaokl.cn",
+    "host": "shebaokl.cn"
+  },
+  "file_hashes": {
+    "index.html": "9a9c9e760bbe07ce5e5893dc8a6528f6a249d7bafeda9de7542e30405afed021",
+    "sitemap.xml": "f6a1c32159b38467a77f5088d98198e1b2702daa2d0cf46f69bd20f98347f1ca",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "84774471e19f308c4e027a88c0d56a19cc0d6dd9bff37144c3f1de8b91065a37",
+    "robots.txt": "baf2e6603ffb087d5152e807a61903079f07e35c73ae908c9b74612a5560180e",
+    "80e083db11d9a66218b78a1433598cc3.txt": "781dd8b26ff7c5dfd8ed6d929cc1ae267c144df8d011c4e7f8e699f07696821a"
+  },
+  "revision": "fdc135015f061251e6913fd1959a8c2244fa9008d48d1503bb710ee59576ed58"
+}
